@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Gurvin Singh 👋
-### SOC Analyst | Blue Team & Threat Detection
+### Aspiring SOC Analyst | Blue Team & Threat Detection
 
 *Security practitioner focused on Incident Response, Log Analysis, and Network Defense.*
 
