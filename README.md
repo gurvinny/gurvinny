@@ -1,11 +1,22 @@
 <div align="center">
 
 # Hi, I'm Gurvin Singh 👋
-### Aspiring SOC Analyst | Blue Team & Threat Detection
+### SOC Analyst | Blue Team & Threat Detection
 
 *Security practitioner focused on Incident Response, Log Analysis, and Network Defense.*
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/gurvin.png)](https://tryhackme.com/p/gurvin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurvin-s-6a02b3278/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurvin240@gmail.com)
+
+<br />
+
+<a href="https://tryhackme.com/p/gurvin">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/gurvin.png" alt="TryHackMe" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurvinny&theme=dark&hide_border=true&background=0D1117&ring=007ACC&fire=E25822&currStreakLabel=007ACC" alt="GitHub Streak" />
+</a>
 
 > 🔭 **Current Focus:** Studying for **CompTIA Security+** & expanding **Home Lab** detection capabilities.
 
@@ -33,11 +44,6 @@
 
 ---
 
-[![Gurvin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurvinny&theme=dark&hide_border=true&background=0D1117&ring=007ACC&fire=E25822&currStreakLabel=007ACC)](https://git.io/streak-stats)
-
 **Certifications:** CompTIA Security+ (In Progress) • TryHackMe SOC Level 1 (Top 6%)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurvin-s-6a02b3278/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurvin240@gmail.com)
 
 </div>
