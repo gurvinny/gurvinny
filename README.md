@@ -44,6 +44,6 @@
 
 ---
 
-**Certifications:** CompTIA Security+ (In Progress) • TryHackMe SOC Level 1 (Top 6%)
+**Certifications:** CompTIA Security+ (In Progress) • TryHackMe SOC Level 1 (Top 5%)
 
 </div>
