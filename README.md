@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-  ██████╗ ██╗   ██╗██████╗ ██╗   ██╗██╗███╗   ██╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
- ██╔════╝ ██║   ██║██╔══██╗██║   ██║██║████╗  ██║    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
- ██║  ███╗██║   ██║██████╔╝██║   ██║██║██╔██╗ ██║    ███████╗██║██╔██╗ ██║██║  ███╗███████║
- ██║   ██║██║   ██║██╔══██╗╚██╗ ██╔╝██║██║╚████║    ╚════██║██║██║╚████║██║   ██║██╔══██║
- ╚██████╔╝╚██████╔╝██║  ██║ ╚████╔╝ ██║██║ ╚███║    ███████║██║██║ ╚███║╚██████╔╝██║  ██║
-  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚══╝    ╚══════╝╚═╝╚═╝  ╚══╝ ╚═════╝ ╚═╝  ╚═╝
-```
+![Gurvin Singh](./gurvin-nameplate.svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=480&lines=SOC+Analyst+%7C+Blue+Team+Defender;Threat+Detection+%7C+Incident+Response;Log+Analysis+%7C+Network+Defense;%5B+STATUS%3A+DEFENDER+ONLINE+%5D" alt="Typing SVG" />
 
