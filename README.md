@@ -35,9 +35,12 @@
 
 <br/>
 
-```
-  Security+  [██████████░░░░░░░░░░]  IN PROGRESS      CySA+  [░░░░░░░░░░░░░░░░░░░░]  QUEUED
-```
+## 📜 Certifications
+
+| Certification | Progress | Status |
+|:---|:---|:---:|
+| **Security+** | `■■■■■■■■■■□□□□□□□□□□` `50%` | ![In Progress](https://img.shields.io/badge/-In%20Progress-orange?style=flat-square) |
+| **CySA+** | `□□□□□□□□□□□□□□□□□□□□` `0%` | ![Queued](https://img.shields.io/badge/-Queued-lightgrey?style=flat-square) |
 
 <sub>🟢 &nbsp; *"The attacker needs to be right once. The defender needs to be right every time."*</sub>
 
