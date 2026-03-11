@@ -32,7 +32,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurvinny&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00CC33&currStreakLabel=00FF41&dates=FFFFFF&stroke=00FF4122" height="120" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurvinny&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideLabels=00FF41&sideNums=FFFFFF&dates=FFFFFF" height="120" alt="GitHub Streak"/>
 
 <br/>
 
