@@ -27,11 +27,12 @@
 |:---:|:---|:---|
 | 🛡️ | **[Security Analyst Portfolio](https://github.com/gurvinny/security-analyst-portfolio)** | SOC Playbooks · Sigma Rules · IR Writeups |
 | 🏠 | **[Home Network Lab](https://github.com/gurvinny/home-network-lab)** | pfSense · VLANs · Snort / Suricata |
+| 🎣 | **[Automated Phish Extractor](https://github.com/gurvinny/Automated-Phish-Extractor)** | Python Automation · IOC Extraction · Threat Intel API |
 | 🔬 | **[Flipper Zero Research](https://github.com/gurvinny/grv-flipper-lab)** | RF Analysis · Hardware Security |
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurvinny&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00CC33&currStreakLabel=00FF41&dates=555555&stroke=00FF4122" height="120" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurvinny&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00CC33&currStreakLabel=00FF41&dates=FFFFFF&stroke=00FF4122" height="120" alt="GitHub Streak"/>
 
 <br/>
 
