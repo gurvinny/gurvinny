@@ -24,6 +24,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
+**Threat Intelligence & Detection:** ![Sigma](https://img.shields.io/badge/Sigma-005E7A?style=flat-square&logo=sigma&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-000000?style=flat-square&logo=yara&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
 <br/>
 
 ### 🔬 Featured Security Projects
@@ -33,6 +37,7 @@
 | **[Security Analyst Portfolio](https://github.com/gurvinny/security-analyst-portfolio)** | **SOC Methodology** | Sigma Rules, Incident Playbooks, and NIST-aligned Writeups. |
 | **[Home Network Lab](https://github.com/gurvinny/home-network-lab)** | **Infrastructure** | Enterprise-grade segmentation and IDS/IPS log aggregation. |
 | **[Automated Phish Extractor](https://github.com/gurvinny/Automated-Phish-Extractor)** | **Efficiency/Automation** | Python tool for 30-second IOC extraction and enrichment. |
+| **[grv-flipper-lab](https://github.com/gurvinny/grv-flipper-lab)** | **Hardware Security & Research** | Protocol analysis and embedded systems testing. |
 
 <br/>
 
