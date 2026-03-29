@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurvin-s-6a02b3278/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurvin240@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_4%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gurvin)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gurvin)
 
 <br/>
 
