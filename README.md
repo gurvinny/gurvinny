@@ -10,12 +10,11 @@
 
 <br/>
 
-> [!NOTE]
-> 🟢 **DEFENDER ONLINE** — NYC based · Security+ May 2026 · Building in public
+![Status](https://img.shields.io/badge/🟢_STATUS-DEFENDER_ONLINE-00FF41?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/📍_NYC-Blue_Team-0077B5?style=flat-square&labelColor=0D1117)
+![Cert](https://img.shields.io/badge/Security%2B-May_2026-FFD700?style=flat-square&labelColor=0D1117)
 
-</div>
-
----
+<br/>
 
 ```yaml
 role     : Aspiring SOC Analyst · Blue Team
@@ -24,29 +23,30 @@ focus    : Threat Detection · Incident Response · CIS Hardening · Log Analysi
 certs    : Security+ (May 2026) · CySA+ (Queued) · THM SOC L1 (Advanced)
 ```
 
----
-
-<div align="center">
+<br/>
 
 **[ SIEM ]**
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Sentinel-008AD7?style=flat-square&logo=microsoftazure&logoColor=white)
+
 **[ NETWORK ]**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-2C3E50?style=flat-square&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B24?style=flat-square&logoColor=white)
+
 **[ SYSTEMS ]**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 **[ INTEL ]**
 ![Sigma](https://img.shields.io/badge/Sigma-005E7A?style=flat-square&logoColor=white)
 ![YARA](https://img.shields.io/badge/YARA-000000?style=flat-square&logoColor=white)
 ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white)
 
-</div>
+<br/>
 
 ---
 
@@ -64,25 +64,27 @@ certs    : Security+ (May 2026) · CySA+ (Queued) · THM SOC L1 (Advanced)
 
 ### 🔴 Latest Investigation
 
-> [!IMPORTANT]
-> **Wazuh SIEM Full Pipeline Failure · April 24, 2026 · RESOLVED**
+<br/>
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  PROBLEM   0 dashboard entries · all services showing active  │
+│  INCIDENT  Wazuh SIEM Full Pipeline Failure · 2026-04-24     │
+├──────────────────────────────────────────────────────────────┤
+│  PROBLEM   0 dashboard entries · all services active         │
 │  CAUSE     Admin hash mismatch · missing OpenSearch role ·   │
-│            dashboard keystore overriding config file          │
+│            dashboard keystore overriding config file         │
 │  FIXED     Auth chain repaired · roles created · keystore    │
 │            updated · auditd conflicts resolved · v4.14.5     │
-│  RESULT    CIS 83.0% ──────────────────────────► 88.9%  ✓   │
+│  RESULT    CIS 83.0% ────────────────────────► 88.9%  ✓    │
+│  STATUS    ████████████████████████████  RESOLVED            │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 **[→ Full case study](https://github.com/gurvinny/security-analyst-portfolio/tree/main/investigations/wazuh-siem-recovery-2026-04)**
 
----
+<br/>
 
-<div align="center">
+---
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurvinny&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideLabels=00FF41&sideNums=FFFFFF&dates=555555" height="120" alt="streak"/>
 
