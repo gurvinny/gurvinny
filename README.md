@@ -1,5 +1,7 @@
 <div align="center">
 
+![Gurvin Singh](./gurvin-nameplate.svg)
+
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=SOC+Analyst+%7C+Blue+Team+Defender;SIEM+%7C+Threat+Detection+%7C+Incident+Response;NYC+%7C+Security%2B+May+2026+%7C+Always+Watching" alt="Typing SVG"/>
 
 <br/>
@@ -17,10 +19,10 @@
 <br/>
 
 ```yaml
-role     : Aspiring SOC Analyst · Blue Team
-lab      : Proxmox · pfSense · Wazuh 4.14.5 · Authentik · Docker · Pterodactyl
-focus    : Threat Detection · Incident Response · CIS Hardening · Log Analysis
-certs    : Security+ (May 2026) · CySA+ (Queued) · THM SOC L1 (Advanced)
+role  : Aspiring SOC Analyst · Blue Team
+lab   : Proxmox · pfSense · Wazuh 4.14.5 · Authentik · Docker · Pterodactyl
+focus : Threat Detection · Incident Response · CIS Hardening · Log Analysis
+certs : Security+ (May 2026) · CySA+ (Queued) · THM SOC L1 (Advanced)
 ```
 
 <br/>
@@ -67,17 +69,18 @@ certs    : Security+ (May 2026) · CySA+ (Queued) · THM SOC L1 (Advanced)
 <br/>
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│  INCIDENT  Wazuh SIEM Full Pipeline Failure · 2026-04-24     │
-├──────────────────────────────────────────────────────────────┤
-│  PROBLEM   0 dashboard entries · all services active         │
-│  CAUSE     Admin hash mismatch · missing OpenSearch role ·   │
-│            dashboard keystore overriding config file         │
-│  FIXED     Auth chain repaired · roles created · keystore    │
-│            updated · auditd conflicts resolved · v4.14.5     │
-│  RESULT    CIS 83.0% ────────────────────────► 88.9%  ✓    │
-│  STATUS    ████████████████████████████  RESOLVED            │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║  INCIDENT  Wazuh SIEM Full Pipeline Failure · 2026-04-24    ║
+╠══════════════════════════════════════════════════════════════╣
+║  PROBLEM   0 dashboard entries · all services active        ║
+║  CAUSE     Admin hash mismatch · missing OpenSearch role    ║
+║            Dashboard keystore overriding yml config         ║
+║  FIXED     Auth chain repaired · roles created              ║
+║            Keystore updated · auditd conflicts resolved     ║
+╠══════════════════════════════════════════════════════════════╣
+║  RESULT    CIS Score   83.0%  >>>>>>>>>>>>>>>  88.9%  ✓    ║
+║  STATUS    RESOLVED    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓        ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 **[→ Full case study](https://github.com/gurvinny/security-analyst-portfolio/tree/main/investigations/wazuh-siem-recovery-2026-04)**
