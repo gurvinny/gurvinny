@@ -19,10 +19,11 @@
 <br/>
 
 ```yaml
-role  : Aspiring SOC Analyst · Blue Team
-lab   : Proxmox · pfSense · Wazuh 4.14.5 · Authentik · Docker · Pterodactyl
-focus : Threat Detection · Incident Response · CIS Hardening · Log Analysis
-certs : Security+ (May 2026) · CySA+ (Queued) · THM SOC L1 (Advanced)
+role   : Aspiring SOC Analyst · Blue Team
+lab    : Proxmox · pfSense · Wazuh 4.14.5 · Authentik · Docker · Pterodactyl
+focus  : Threat Detection · Incident Response · CIS Hardening · Log Analysis
+certs  : Security+ (May 2026) · CySA+ (Queued) · THM SOC L1 (Advanced)
+audits : CIS Ubuntu 24.04 L1 — 88.9% · USG Level 2 Server — 90.8%
 ```
 
 <br/>
@@ -57,7 +58,7 @@ certs : Security+ (May 2026) · CySA+ (Queued) · THM SOC L1 (Advanced)
 | | Repo | What |
 |:---:|:---|:---|
 | 🛡️ | **[Security Analyst Portfolio](https://github.com/gurvinny/security-analyst-portfolio)** | Sigma rules · IR playbooks · NIST writeups |
-| 🔴 | **[Wazuh SIEM Recovery](https://github.com/gurvinny/security-analyst-portfolio/tree/main/investigations/wazuh-siem-recovery-2026-04)** | Broke → fixed → hardened · CIS 83% → 88.9% |
+| 🔴 | **[Wazuh SIEM Recovery](https://github.com/gurvinny/security-analyst-portfolio/tree/main/investigations/wazuh-siem-recovery-2026-04)** | Broke → fixed → hardened · CIS 88.9% · USG L2 90.8% |
 | 🏠 | **[Home Network Lab](https://github.com/gurvinny/home-network-lab)** | VLAN segmentation · IDS/IPS · log aggregation |
 | 🐍 | **[Automated Phish Extractor](https://github.com/gurvinny/Automated-Phish-Extractor)** | Python IOC extraction in 30 seconds |
 | 🔌 | **[grv-flipper-lab](https://github.com/gurvinny/grv-flipper-lab)** | RF · NFC · hardware protocol analysis |
@@ -77,6 +78,8 @@ certs : Security+ (May 2026) · CySA+ (Queued) · THM SOC L1 (Advanced)
 ║            Dashboard keystore overriding yml config         ║
 ║  FIXED     Auth chain repaired · roles created              ║
 ║            Keystore updated · auditd conflicts resolved     ║
+║  AUDITS    CIS Ubuntu 24.04 L1   88.9%  ✓                   ║
+║            USG Level 2 Server    90.8%  ✓                   ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  RESULT    CIS Score   83.0%  >>>>>>>>>>>>>>>  88.9%  ✓    ║
 ║  STATUS    RESOLVED    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓        ║
