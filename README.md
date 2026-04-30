@@ -71,18 +71,19 @@ audits : CIS Ubuntu 24.04 L1 — 88.9% · USG Level 2 Server — 90.8%
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  INCIDENT  Wazuh SIEM Full Pipeline Failure · 2026-04-24    ║
+║  INCIDENT  Wazuh SIEM Full Pipeline Failure · 2026-04-24     ║
 ╠══════════════════════════════════════════════════════════════╣
-║  PROBLEM   0 dashboard entries · all services active        ║
-║  CAUSE     Admin hash mismatch · missing OpenSearch role    ║
-║            Dashboard keystore overriding yml config         ║
-║  FIXED     Auth chain repaired · roles created              ║
-║            Keystore updated · auditd conflicts resolved     ║
-║  AUDITS    CIS Ubuntu 24.04 L1   88.9%  ✓                   ║
-║            USG Level 2 Server    90.8%  ✓                   ║
+║  PROBLEM   0 dashboard entries · all services active         ║
+║  CAUSE     Admin hash mismatch · missing OpenSearch role     ║
+║            Dashboard keystore overriding yml config          ║
+║  FIXED     Auth chain repaired · roles created               ║
+║            Keystore updated · auditd conflicts resolved      ║
+║  AUDITS    CIS Ubuntu 24.04 L1   88.9%  ✓                    ║
+║            USG Level 2 Server    90.8%  ✓                    ║
 ╠══════════════════════════════════════════════════════════════╣
-║  RESULT    CIS Score   83.0%  >>>>>>>>>>>>>>>  88.9%  ✓    ║
-║  STATUS    RESOLVED    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓        ║
+║  RESULT    CIS Score   83.0%  >>>>>>>>>>>>>>>  88.9%  ✓      ║
+║                                                              ║
+║  STATUS    RESOLVED    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
