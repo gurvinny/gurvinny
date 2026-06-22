@@ -22,7 +22,7 @@
 role   : Aspiring SOC Analyst · Blue Team
 lab    : Proxmox · pfSense · Wazuh 4.14.5 · Authentik · Docker · Pterodactyl
 focus  : Threat Detection · Incident Response · CIS Hardening · Log Analysis
-certs  : Security+ (May 2026) · CySA+ (Queued) · THM SOC L1 (Advanced)
+certs  : Security+ Certified · CySA+ (July 2026) · THM SOC L1 (Advanced)
 audits : CIS Ubuntu 24.04 L1 — 88.9% · USG Level 2 Server — 90.8%
 ```
 
