@@ -92,13 +92,7 @@ audits : CIS Ubuntu 24.04 L1 · 88.9% · USG Level 2 Server · 90.8%
 
 **[→ Full case study](https://github.com/gurvinny/security-analyst-portfolio/tree/main/investigations/wazuh-siem-recovery-2026-04)**
 
-<br/>
-
 ---
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurvinny&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideLabels=00FF41&sideNums=FFFFFF&dates=555555" height="120" alt="streak"/>
-
-<br/>
 
 <sub>🟢 *"The attacker needs to be right once. The defender needs to be right every time."*</sub>
 
