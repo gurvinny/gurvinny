@@ -1,8 +1,8 @@
 <div align="center">
 
-![Gurvin Singh](./gurvin-nameplate.svg)
+# Gurvin Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=SOC+Analyst+%7C+Blue+Team+Defender;SIEM+%7C+Threat+Detection+%7C+Incident+Response;NYC+%7C+Security%2B+May+2026+%7C+Always+Watching" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=SOC+Analyst+%7C+Blue+Team+Defender;SIEM+%7C+Threat+Detection+%7C+Incident+Response;NYC+%7C+Security%2B+%26+CySA%2B+Certified+%7C+Always+Watching" alt="Typing SVG"/>
 
 <br/>
 
@@ -14,16 +14,21 @@
 
 ![Status](https://img.shields.io/badge/🟢_STATUS-DEFENDER_ONLINE-00FF41?style=flat-square&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/📍_NYC-Blue_Team-0077B5?style=flat-square&labelColor=0D1117)
-![Cert](https://img.shields.io/badge/Security%2B-May_2026-FFD700?style=flat-square&labelColor=0D1117)
+![Security+](https://img.shields.io/badge/Security%2B-Certified-FFD700?style=flat-square&labelColor=0D1117)
+![CySA+](https://img.shields.io/badge/CySA%2B-Certified-FFD700?style=flat-square&labelColor=0D1117)
+
+<br/>
+
+**Certified blue-team defender.** I build my own SOC, then break it, investigate it, and harden it. Every step documented.
 
 <br/>
 
 ```yaml
-role   : Aspiring SOC Analyst · Blue Team
+role   : SOC Analyst · Blue Team Defender
 lab    : Proxmox · pfSense · Wazuh 4.14.5 · Authentik · Docker · Pterodactyl
-focus  : Threat Detection · Incident Response · CIS Hardening · Log Analysis
-certs  : Security+ Certified · CySA+ (July 2026) · THM SOC L1 (Advanced)
-audits : CIS Ubuntu 24.04 L1 — 88.9% · USG Level 2 Server — 90.8%
+focus  : Detection Engineering · Threat Hunting · Incident Response · CIS Hardening
+certs  : Security+ Certified · CySA+ Certified · THM SOC L1 (Advanced)
+audits : CIS Ubuntu 24.04 L1 · 88.9% · USG Level 2 Server · 90.8%
 ```
 
 <br/>
@@ -31,8 +36,6 @@ audits : CIS Ubuntu 24.04 L1 — 88.9% · USG Level 2 Server — 90.8%
 **[ SIEM ]**
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Sentinel](https://img.shields.io/badge/Sentinel-008AD7?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **[ NETWORK ]**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -61,7 +64,7 @@ audits : CIS Ubuntu 24.04 L1 — 88.9% · USG Level 2 Server — 90.8%
 | 🔴 | **[Wazuh SIEM Recovery](https://github.com/gurvinny/security-analyst-portfolio/tree/main/investigations/wazuh-siem-recovery-2026-04)** | Broke → fixed → hardened · CIS 88.9% · USG L2 90.8% |
 | 🏠 | **[Home Network Lab](https://github.com/gurvinny/home-network-lab)** | VLAN segmentation · IDS/IPS · log aggregation |
 | 🐍 | **[Automated Phish Extractor](https://github.com/gurvinny/Automated-Phish-Extractor)** | Python IOC extraction in 30 seconds |
-| 🔌 | **[grv-flipper-lab](https://github.com/gurvinny/grv-flipper-lab)** | RF · NFC · hardware protocol analysis |
+| 🎧 | **[Slo-Fi](https://github.com/gurvinny/Slo-Fi)** | Browser audio engine · TypeScript · Web Audio API · client-side, zero data exfiltration |
 
 ---
 
