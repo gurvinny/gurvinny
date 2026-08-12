@@ -62,6 +62,7 @@ audits : CIS Ubuntu 24.04 L1 · 88.9% · USG Level 2 Server · 90.8%
 |:---:|:---|:---|
 | 🛡️ | **[Security Analyst Portfolio](https://github.com/gurvinny/security-analyst-portfolio)** | Sigma rules · IR playbooks · NIST writeups |
 | 🔴 | **[Wazuh SIEM Recovery](https://github.com/gurvinny/security-analyst-portfolio/tree/main/investigations/wazuh-siem-recovery-2026-04)** | Broke → fixed → hardened · CIS 88.9% · USG L2 90.8% |
+| 👻 | **[Spectre](https://github.com/gurvinny/spectre)** | Dual-band wireless IDS · ESP32-C5 · real-time threat detection · Wazuh SIEM forwarding |
 | 🏠 | **[Home Network Lab](https://github.com/gurvinny/home-network-lab)** | VLAN segmentation · IDS/IPS · log aggregation |
 | 🐍 | **[Automated Phish Extractor](https://github.com/gurvinny/Automated-Phish-Extractor)** | Python IOC extraction in 30 seconds |
 | 🎧 | **[Slo-Fi](https://github.com/gurvinny/Slo-Fi)** | Browser audio engine · TypeScript · Web Audio API · client-side, zero data exfiltration |
