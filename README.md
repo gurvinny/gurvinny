@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gurvin Singh
+# Gurvin
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=520&lines=SOC+Analyst+%7C+Blue+Team+Defender;SIEM+%7C+Detection+Engineering+%7C+Incident+Response;NYC+%7C+Security%2B+%26+CySA%2B+Certified+%7C+Always+Watching" alt="Typing SVG"/>
 
