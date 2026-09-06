@@ -24,7 +24,7 @@ focus  : Detection Engineering · Threat Hunting · Incident Response
 certs  : Security+ · CySA+ · TryHackMe SOC L1 (Advanced) · Top 3%
 audits : CIS Ubuntu 24.04 L1  →  88.9%
          USG Level 2 Server   →  90.8%
-status : Open to SOC I / Jr. Blue Team roles · NYC or remote
+status : Open to SOC II / Security Engineering / Jr. Blue Team roles · NYC or remote.
 ```
 
 ---
