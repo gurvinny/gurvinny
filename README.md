@@ -121,3 +121,11 @@ Also build for fun — **[Slo-Fi](https://github.com/gurvinny/Slo-Fi)**: browser
 <sub>🟢 *"The attacker needs to be right once. The defender needs to be right every time."*</sub>
 
 </div>
+
+---
+
+## Contributions
+
+This repository is published as a record of completed work, not as a collaborative project.
+Issues are disabled and pull requests are not reviewed or merged. Corrections, broken links and
+security concerns are welcome — see [SECURITY.md](SECURITY.md) for how to report them.
