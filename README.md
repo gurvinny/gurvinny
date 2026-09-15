@@ -2,7 +2,7 @@
 
 # Gurvin
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=520&lines=SOC+Analyst+%7C+Blue+Team+Defender;SIEM+%7C+Detection+Engineering+%7C+Incident+Response;NYC+%7C+Security%2B+%26+CySA%2B+Certified+%7C+Always+Watching" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=520&lines=Detection+Engineering+%7C+Blue+Team;Wazuh+%7C+Sigma+%7C+Python;NYC+%7C+Security%2B+%26+CySA%2B+Certified" alt="Typing SVG"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurvin-s-6a02b3278/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe_Top_3%25-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/gurvin)
@@ -18,9 +18,9 @@
 </div>
 
 ```yaml
-whoami : Gurvin Singh · SOC Analyst · Blue Team Defender
+whoami : Gurvin Singh · Detection Engineering · Blue Team
 lab    : Proxmox · pfSense · Wazuh 4.14.5 · Authentik · Docker
-focus  : Detection Engineering · Threat Hunting · Incident Response
+focus  : Detection Engineering · Threat Hunting · Home-lab SOC
 certs  : Security+ · CySA+ · TryHackMe SOC L1 (Advanced) · Top 3%
 audits : CIS Ubuntu 24.04 L1  →  88.9%
          USG Level 2 Server   →  90.8%
@@ -45,10 +45,10 @@ status : Open to SOC II / Security Engineering / Jr. Blue Team roles · NYC or r
 
 **SIEM & Detection**
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Sigma](https://img.shields.io/badge/Sigma-005E7A?style=flat-square&logoColor=white)
 ![YARA](https://img.shields.io/badge/YARA-000000?style=flat-square&logoColor=white)
 ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-374151?style=flat-square&logo=splunk&logoColor=9CA3AF) *(learning)*
 
 **Network & Perimeter**
 ![pfSense](https://img.shields.io/badge/pfSense-2C3E50?style=flat-square&logoColor=white)
@@ -79,7 +79,7 @@ status : Open to SOC II / Security Engineering / Jr. Blue Team roles · NYC or r
 | | Project | What it proves |
 |:-:|:--|:--|
 | 👻 | **[Spectre](https://github.com/gurvinny/spectre)** | Full-stack detection: ESP32-C5 sensor → FastAPI engine → Next.js SOC console → Wazuh RFC5424 forwarding |
-| 🔴 | **[Wazuh SIEM Recovery](https://github.com/gurvinny/security-analyst-portfolio/tree/main/investigations/wazuh-siem-recovery-2026-04)** | Real incident response — broke, diagnosed, hardened. CIS 88.9% · USG L2 90.8% |
+| 🔴 | **[Wazuh SIEM Recovery](https://github.com/gurvinny/security-analyst-portfolio/tree/main/investigations/wazuh-siem-recovery-2026-04)** | Broke it in the lab, diagnosed it, hardened it — with evidence. CIS 88.9% · USG L2 90.8% |
 | 🛡️ | **[Security Analyst Portfolio](https://github.com/gurvinny/security-analyst-portfolio)** | Detection engineering: Sigma rules · IR playbooks · NIST writeups |
 | 🐍 | **[Automated Phish Extractor](https://github.com/gurvinny/Automated-Phish-Extractor)** | Tier-1 SOC triage — .eml parsing, IOC defang, SPF/DMARC in 30s |
 | 🏠 | **[Home Network Lab](https://github.com/gurvinny/home-network-lab)** | Defense-in-depth: VLAN segmentation · IDS/IPS · centralized logging |
