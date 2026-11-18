@@ -9,9 +9,7 @@
 
 </div>
 
-**CompTIA CySA+ and CompTIA Security+ certified blue-team defender.** I build my own SOC, then break it,
-investigate it, and harden it. Every step is documented in public.
-Open to SOC Analyst and Detection Engineering roles, NYC or remote.
+I build security tools end to end, from firmware on the radio to the alert in the SIEM.
 
 ---
 
