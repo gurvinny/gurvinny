@@ -9,9 +9,9 @@
 
 </div>
 
-**CySA+ and Security+ certified blue-team defender.** I build my own SOC, then break it,
+**CompTIA CySA+ and CompTIA Security+ certified blue-team defender.** I build my own SOC, then break it,
 investigate it, and harden it. Every step is documented in public.
-Open to SOC Analyst and Detection Engineering roles — NYC or remote.
+Open to SOC Analyst and Detection Engineering roles, NYC or remote.
 
 ---
 
@@ -21,17 +21,22 @@ Open to SOC Analyst and Detection Engineering roles — NYC or remote.
 <tr>
 <td width="50%" valign="top">
 
-<p>Two ESP32-C5 boards run custom promiscuous-mode firmware and stream 802.11 frame metadata
-over UART into a <b>stdlib-only FastAPI detection engine</b> (deauth flood, evil twin,
-beacon/probe flood and RSSI anomaly rules), which forwards scored threats to
+<p>Two ESP32-C5 boards, one per band, run my own receive-only firmware and stream 802.11
+frame metadata over native USB, with drop counters so loss on the board is counted, not silent.
+A <b>stdlib Python detection engine behind FastAPI</b> (deauth flood, evil twin,
+beacon/probe flood and RSSI anomaly rules) forwards scored threats to
 <b>Wazuh over RFC 5424</b> and drives a Next.js SOC console.</p>
 
-<p>Sensor to SIEM to analyst view, every layer mine. Two of the four detections map to ATT&amp;CK: <b>T1557</b> (evil twin) and <b>T1499</b> (deauth flood).</p>
+<p>Sensor to SIEM to analyst view, every layer mine. Three of the four rules map to ATT&amp;CK: <b>T1557</b> (evil twin), <b>T1499</b> (deauth flood), <b>T1498</b> and <b>T1595</b> (beacon and probe floods).</p>
+
+<p><b>v1.0.0-beta.1</b> is out: signed tag, prebuilt firmware with checksums, and a pre-release
+gate of 30 minutes on both boards with zero sequence gaps and zero dropped frames.</p>
 
 <p><i>Run against my own network only, on hardware I own. The sensor forwards threats and
 summaries, <b>never raw frames</b>: the SIEM stores decisions, not a packet archive.</i></p>
 
 <p>
+<a href="https://github.com/gurvinny/spectre/releases/tag/v1.0.0-beta.1"><img src="https://img.shields.io/badge/release-v1.0.0--beta.1-008F11?style=flat-square&labelColor=0D1117" alt="Release v1.0.0-beta.1"/></a>
 <img src="https://img.shields.io/badge/License-AGPL--3.0-005E7A?style=flat-square&labelColor=0D1117" alt="AGPL-3.0"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
