@@ -13,39 +13,23 @@ I build security tools end to end, from firmware on the radio to the alert in th
 
 ---
 
+<div align="center">
+
 ### 👻 SPECTRE: WiFi intrusion detection
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>Two ESP32-C5 boards run my own receive-only firmware and stream 802.11 frames over native USB to a Python detection engine (deauth flood, evil twin, beacon/probe flood, RSSI anomaly). Scored threats go to <b>Wazuh over RFC 5424</b> and a Next.js SOC console. Three of the four rules map to ATT&amp;CK.</p>
 
-<p>Two ESP32-C5 boards run my own receive-only firmware and stream 802.11 frames over
-native USB to a Python detection engine (deauth flood, evil twin, beacon/probe flood, RSSI
-anomaly). Scored threats go to <b>Wazuh over RFC 5424</b> and a Next.js SOC console.
-Three of the four rules map to ATT&amp;CK.</p>
-
-<p><b>v1.0.0-beta.1</b> is out: signed tag, prebuilt firmware, checksums.</p>
-
-<p>
-<a href="https://github.com/gurvinny/spectre/releases/tag/v1.0.0-beta.1"><img src="https://img.shields.io/badge/release-v1.0.0--beta.1-008F11?style=flat-square&labelColor=0D1117" alt="Release v1.0.0-beta.1"/></a>
+<p><a href="https://github.com/gurvinny/spectre/releases/tag/v1.0.0-beta.1"><img src="https://img.shields.io/badge/release-v1.0.0--beta.1-008F11?style=flat-square&labelColor=0D1117" alt="Release v1.0.0-beta.1"/></a>
 <img src="https://img.shields.io/badge/License-AGPL--3.0-005E7A?style=flat-square&labelColor=0D1117" alt="AGPL-3.0"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 <a href="https://github.com/gurvinny/spectre/actions/workflows/codeql.yml"><img src="https://img.shields.io/github/actions/workflow/status/gurvinny/spectre/codeql.yml?branch=main&style=flat-square&label=CodeQL&labelColor=0D1117" alt="CodeQL"/></a>
 <a href="https://github.com/gurvinny/spectre/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/gurvinny/spectre/ci.yml?branch=main&style=flat-square&label=CI&labelColor=0D1117" alt="CI"/></a>
-<a href="https://github.com/gurvinny/spectre/actions/workflows/browser-qa.yml"><img src="https://img.shields.io/github/actions/workflow/status/gurvinny/spectre/browser-qa.yml?branch=main&style=flat-square&label=browser%20QA&labelColor=0D1117" alt="Browser QA"/></a>
-</p>
+<a href="https://github.com/gurvinny/spectre/actions/workflows/browser-qa.yml"><img src="https://img.shields.io/github/actions/workflow/status/gurvinny/spectre/browser-qa.yml?branch=main&style=flat-square&label=browser%20QA&labelColor=0D1117" alt="Browser QA"/></a></p>
 
-<p><b><a href="https://github.com/gurvinny/spectre">→ github.com/gurvinny/spectre</a></b></p>
+<a href="https://github.com/gurvinny/spectre"><img width="100%" src="assets/spectre-promo.png" alt="SPECTRE: wireless intrusion detection. Two radios watch the air, nothing gets on quietly. Dual-band ESP32-C5, receive-only firmware, Wazuh over RFC 5424, ATT&amp;CK-mapped."/></a>
 
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/gurvinny/spectre">
-<img width="100%" src="https://raw.githubusercontent.com/gurvinny/spectre/main/docs/screenshots/02-command-center.png" alt="SPECTRE command center: live threat feed, device inventory and spectrum view"/>
-</a>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
