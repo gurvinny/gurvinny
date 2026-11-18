@@ -13,7 +13,7 @@ I build security tools end to end, from firmware on the radio to the alert in th
 
 ---
 
-### 👻 SPECTRE: WiFi intrusion detection, built end to end
+### 👻 SPECTRE: WiFi intrusion detection
 
 <table>
 <tr>
