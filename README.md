@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>GURVIN SINGH</h1>
+<img src="assets/gurvin-header.svg" alt="Gurvin Singh"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=580&lines=Detection+Engineering+%C2%B7+Blue+Team;Wazuh+%C2%B7+Sigma+%C2%B7+Python+%C2%B7+802.11;I+build+the+sensor%2C+the+detection%2C+the+case+file." alt="Detection Engineering · Blue Team. Wazuh · Sigma · Python · 802.11. I build the sensor, the detection, the case file."/>
 
